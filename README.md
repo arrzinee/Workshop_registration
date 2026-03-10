@@ -195,6 +195,4 @@ Response example:
 
 ---
 
-## Author
 
-Developed by **Aaryan Pratap Singh**
